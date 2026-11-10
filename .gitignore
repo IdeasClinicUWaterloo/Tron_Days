@@ -1,0 +1,10 @@
+*~
+*.docx
+*.pptx
+*.xlsx
+*#
+
+# Local editor / tool settings
+.claude/
+.vscode/
+.ipynb_checkpoints/
