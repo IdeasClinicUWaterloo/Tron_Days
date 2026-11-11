@@ -1,7 +1,3 @@
----
-title: 'Tron Days: Day 2'
----
-
 # Day 2: Building and Programming the Synthesizer
 
 On Day 2 you will assemble your synthesizer, then program it to play notes and full songs.
@@ -39,17 +35,17 @@ Before you begin, please make sure that you have all of the materials listed bel
 | USB-C Cable | 1 |
 | Cardboard Speaker Cab Design (from Day 1) | 1 |
 
-# Getting the Code
+# Code You'll Use Today
 
-You will need the following project folders to run your synthesizer:
+Today's code is in the `code` folder of the Tron Days files you downloaded in the [prerequisites](../prerequisites/README.md#download-the-tron-days-files):
 
-- [PCB_CONNECTION_CHECKER](../code/PCB_CONNECTION_CHECKER/)
-- [SYNTH_BASE](../code/SYNTH_BASE/)
-- [SYNTH_SEQUENCER](../code/SYNTH_SEQUENCER/)
+| Folder | Used in |
+|---|---|
+| [`PCB_CONNECTION_CHECKER`](../code/PCB_CONNECTION_CHECKER/) | Activity 1: Assemble the Synthesizer |
+| [`SYNTH_BASE`](../code/SYNTH_BASE/) | Activity 2: Synthesizer Base Code |
+| [`SYNTH_SEQUENCER`](../code/SYNTH_SEQUENCER/) | Activity 3: Sequencer Code |
 
-To get them, download this repository as a ZIP: on the repository's main page, click **Code > Download ZIP**, then unzip it.
-The project folders are inside the `code` folder.
-Keep each `.ino` file inside its folder, since the Arduino IDE needs the folder name to match the sketch name.
+> Haven't downloaded the files yet? Follow [Download the Tron Days Files](../prerequisites/README.md#download-the-tron-days-files) first.
 
 # Table of Contents
 

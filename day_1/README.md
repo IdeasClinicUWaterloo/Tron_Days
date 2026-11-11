@@ -1,7 +1,3 @@
----
-title: 'Tron Days: Day 1'
----
-
 # Day 1: Sound Waves and Speaker Cab Design
 
 On Day 1 you will explore the mathematics of sound waves, recreate a piano note, and then design and build a cardboard speaker cabinet for your synthesizer.

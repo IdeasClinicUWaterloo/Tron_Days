@@ -23,7 +23,7 @@ Over two days, you will explore the mathematics of sound, design and build a car
 
 Please complete the prerequisites before arriving:
 
-- [Tron Days Prerequisites: software installation and configuration](prerequisites/README.md)
+- [Tron Days Prerequisites: software setup and downloading the Tron Days files](prerequisites/README.md)
 
 # Schedule
 
