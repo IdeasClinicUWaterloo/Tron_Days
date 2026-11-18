@@ -17,7 +17,7 @@ These sounds may be altered by components such as:
 
 Over two days, you will explore the mathematics of sound, design and build a cardboard speaker cabinet, and then assemble and program your own synthesizer.
 
-> **Make sure you read through all of the Day 1 and Day 2 instructions on Day 1.**
+> **On Day 1, read through the Day 2 instructions as well.** Your Day 1 baseplate and speaker cab must fit the synthesizer PCB you'll receive on Day 2, so it helps to know what's coming.
 
 # Before Day 1
 
