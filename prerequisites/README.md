@@ -4,14 +4,9 @@ To help the event run smoothly for you and our team, please read through these i
 
 If you require any additional assistance, please contact us by email at [engideas@uwaterloo.ca](mailto:engideas@uwaterloo.ca), or drop by the second floor Ideas Clinic office in E5-2112, where our co-op research assistants will be happy to help you.
 
-# Required Software
+# Software Setup
 
-Follow the **[Software Setup guide](setup.ipynb)** to install and configure everything below.
-
-- Audacity
-- AutoCAD (free with your UWaterloo student account)
-- Arduino IDE, configured for the Seeeduino Nano
-- Mozzi library **version 1.1.0**, configured for HIFI mode
+Follow the **[Software Setup guide](setup.ipynb)** to install and configure all of the software you will need.
 
 # Download the Tron Days Files
 
