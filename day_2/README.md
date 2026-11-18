@@ -8,16 +8,27 @@ The synthesizer you will be creating has two modes that you can switch between b
 Each mode is controlled by potentiometers:
 
 - **LFO state** potentiometers
+
     - Waveform (sine, triangle, saw, and square waves)
+
     - Frequency/Pitch
+
     - Cutoff/Intensity
+
     - LFO cutoff rate
+
     - Resonance (i.e., the vibrating quality of the sound)
+
     - Amplitude/Volume
+
 - **ADSR state** potentiometers
+
     - Attack
+
     - Decay
+
     - Sustain
+
     - Release
 
 The basic design of the synthesizer also includes one button that plays a single note according to the attack, decay, sustain, and release values.
@@ -50,8 +61,11 @@ Today's code is in the `code` folder of the Tron Days files you downloaded in th
 # Table of Contents
 
 1. [Activity 1: Assemble the Synthesizer](01_assemble_synthesizer.ipynb)
+
 2. [Activity 2: Synthesizer Base Code](02_synth_base_code.ipynb)
+
 3. [Activity 3: Sequencer Code](03_sequencer_code.ipynb)
+
 4. [Day 2 Presentation](04_presentation.ipynb)
 
 ---

@@ -14,9 +14,13 @@ All of the code and drivers you will need for both days come in one download.
 Get them now so they are ready on your laptop for Day 1.
 
 1. **[Click here to download the Tron Days files](https://github.com/IdeasClinicUWaterloo/Tron_Days/archive/refs/heads/main.zip)** (a `.zip` file).
+
 2. Unzip it:
+
     - **Windows:** right-click the downloaded file, select **Extract All...**, then **Extract**.
+
     - **macOS:** double-click the downloaded file.
+
 3. Move the unzipped `Tron_Days-main` folder somewhere easy to find, such as your Desktop or Documents.
 
 > **Important:** always open the code from the **unzipped** folder.

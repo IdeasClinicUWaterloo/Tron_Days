@@ -12,7 +12,9 @@ Analog synthesizers typically create sounds by generating waveforms through meth
 These sounds may be altered by components such as:
 
 - **filters**, which cut or boost frequencies;
+
 - **envelopes**, which control articulation, or how notes begin and end;
+
 - **low-frequency oscillators (LFOs)**, which modulate parameters such as pitch, volume, or tone.
 
 Over two days, you will explore the mathematics of sound, design and build a cardboard speaker cabinet, and then assemble and program your own synthesizer.
@@ -28,6 +30,7 @@ Please complete the prerequisites before arriving:
 # Activities
 
 - [Day 1: Sound Waves and Speaker Cab Design](day_1/README.md)
+
 - [Day 2: Building and Programming the Synthesizer](day_2/README.md)
 
 # Submissions

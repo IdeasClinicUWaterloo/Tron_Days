@@ -7,8 +7,11 @@ Make sure you have completed the [prerequisites](../prerequisites/README.md) bef
 # Table of Contents
 
 1. [Activity 1: Manipulating Sound Waves](01_manipulating_sound_waves.ipynb)
+
 2. [Activity 2: Recreating a Piano Note](02_recreating_a_piano_note.ipynb)
+
 3. [Activity 3: Design Plate and Speaker Cab](03_speaker_cab_design.ipynb)
+
 4. [Day 1 Presentation and Competitions](04_presentation_and_competitions.ipynb)
 
 ---
