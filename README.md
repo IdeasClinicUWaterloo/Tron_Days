@@ -32,7 +32,7 @@ Please complete the prerequisites before arriving:
 
 # Submissions
 
-Submission instructions and due dates are posted on D2L.
+Submission instructions and due dates are posted on LEARN.
 
 # Need help?
 
