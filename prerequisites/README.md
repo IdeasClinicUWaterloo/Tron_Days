@@ -10,7 +10,7 @@ Follow the **[Software Setup guide](setup.ipynb)** to install and configure ever
 
 - Audacity
 - AutoCAD (free with your UWaterloo student account)
-- Arduino IDE, configured for the Seeeduino Nano and the Arduino UNO R4
+- Arduino IDE, configured for the Seeeduino Nano
 - Mozzi library **version 1.1.0**, configured for HIFI mode
 
 # Download the Tron Days Files
