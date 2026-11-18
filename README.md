@@ -25,19 +25,6 @@ Please complete the prerequisites before arriving:
 
 - [Tron Days Prerequisites: software setup and downloading the Tron Days files](prerequisites/README.md)
 
-# Schedule
-
-| Day | Time | Location | Activity |
-|---|---|---|---|
-| **Day 1** | 8:30 am – 12:30 pm | E7 1427 (Ideas Clinic) | Introduction and Launch |
-| | | | Manipulating Sound Waves / Recreating a Piano Note |
-| | 12:30 pm – 1:00 pm | | Lunch |
-| | 1:00 pm – 4:30 pm | | Design Plate and Speaker Cab |
-| | | | Day 1 Presentations |
-| **Day 2** | Your regularly scheduled tutorial time (morning for S4, afternoon for S8) | E7 1427 (Ideas Clinic) | Assemble Synthesizer |
-| | | | Synthesizer Base Code Activity / Sequencer Code Activity |
-| | | | Day 2 Presentations |
-
 # Activities
 
 - [Day 1: Sound Waves and Speaker Cab Design](day_1/README.md)

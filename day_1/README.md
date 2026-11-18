@@ -4,16 +4,6 @@ On Day 1 you will explore the mathematics of sound waves, recreate a piano note,
 
 Make sure you have completed the [prerequisites](../prerequisites/README.md) before starting.
 
-# Schedule
-
-| Time | Activity |
-|---|---|
-| 8:30 am – 12:30 pm | Introduction and Launch |
-| | Manipulating Sound Waves / Recreating a Piano Note |
-| 12:30 pm – 1:00 pm | Lunch |
-| 1:00 pm – 4:30 pm | Design Plate and Speaker Cab |
-| | Day 1 Presentations |
-
 # Table of Contents
 
 1. [Activity 1: Manipulating Sound Waves](01_manipulating_sound_waves.ipynb)
